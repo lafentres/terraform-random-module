@@ -1,3 +1,4 @@
+# A comment
 resource "random_string" "id" {
   keepers = {
       uuid = uuid()
